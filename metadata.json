@@ -1,0 +1,6 @@
+{
+  "name": "Nova - AI Voice Assistant",
+  "description": "Meet Nova, a highly intelligent, warm, and friendly Gen Z AI companion with an expressive voice and empathetic personality.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
